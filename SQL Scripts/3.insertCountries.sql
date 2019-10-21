@@ -1,0 +1,14 @@
+insert into ps_countries values ('FR', 'France', 1);
+insert into ps_countries values ('BR', 'Brazil', -2);
+insert into ps_countries values ('US', 'United States', -7);
+insert into ps_countries values ('RU', 'Russia', 2);
+insert into ps_countries values ('GR', 'Greece', 2);
+insert into ps_countries values ('AR', 'Argentina', -3);
+insert into ps_countries values ('DE', 'Germany', 1);
+insert into ps_countries values ('TR', 'Turkey', 2);
+insert into ps_countries values ('CR', 'Croatia', 1);
+insert into ps_countries values ('NO', 'Norway', 1);
+insert into ps_countries values ('NZ', 'New Zealand', 12);
+insert into ps_countries values ('GB', 'England', 0);
+insert into ps_countries values ('IT', 'Italy', 1);
+insert into ps_countries values ('ES', 'Spain', 1);
